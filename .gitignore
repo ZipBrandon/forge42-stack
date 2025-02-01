@@ -16,7 +16,6 @@ coverage
 # Cache Directories and files
 .cache
 .yarn*
-.env*
 !.env.example
 .swp*
 .turbo
